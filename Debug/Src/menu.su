@@ -1,0 +1,14 @@
+menu.c:13:6:BuildMenu	24	static
+menu.c:29:6:Next	16	static
+menu.c:35:6:Prev	16	static
+menu.c:41:6:Up	16	static
+menu.c:47:6:Down	16	static
+menu.c:56:6:Build_Menu	40	static
+menu.c:99:6:Led3_On	4	static
+menu.c:104:6:Led3_Off	4	static
+menu.c:109:6:Led4_On	4	static
+menu.c:114:6:Led4_Off	4	static
+menu.c:119:6:Led5_On	4	static
+menu.c:124:6:Led5_Off	4	static
+menu.c:130:6:ekranMenu	32	static
+menu.c:153:6:menuSistemi	24	static

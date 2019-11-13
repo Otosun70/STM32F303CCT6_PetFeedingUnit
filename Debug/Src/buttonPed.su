@@ -1,0 +1,2 @@
+buttonPed.c:7:6:ButtonPed_Init	4	static
+buttonPed.c:22:6:button_Read	24	static
