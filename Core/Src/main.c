@@ -84,7 +84,7 @@ uint16_t servoDeger;
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+//Degisikligin gituba yansimasi
   /* USER CODE END 1 */
   
 
